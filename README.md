@@ -9,11 +9,6 @@ SMS BOMBING TOOL WITH HAVING 50,000 MESSAGE SENDING CAPACITY AT A TIME.
 <br>
 </p>
 
-![image1](.images/image1.png)
-![image2](.images/image2.png)
-![image3](.images/image3.png)
-![image4](.images/image4.png)
-
 ### [+] Description
 > **SMS BOMBING TOOL WITH HAVING 50,000 MESSAGE SENDING CAPACITY AT A TIME.**
 
@@ -46,6 +41,15 @@ To use the bomber type the following commands:
 ```shell script
 bomber
 ```
+
+
+
+![image1](.images/image1.png)
+![image2](.images/image2.png)
+![image3](.images/image3.png)
+![image4](.images/image4.png)
+
+
 
 ## FAQ
 **Q:** Poor Internet Connection Detected:
