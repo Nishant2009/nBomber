@@ -38,11 +38,7 @@ SMS BOMBING TOOL WITH HAVING 50,000 MESSAGE SENDING CAPACITY AT A TIME.
 Run these commands to Install Bomber.
 
 ```shell script
-git clone https://github.com/Nishant2009/Bomber 
-cd Bomber
-pip install bomber-1.0-py3-none-any.whl --force-reinstall
-cd .. 
-rm -rf Bomber
+pip install https://github.com/Nishant2009/Bomber/blob/main/bomber-1.0-py3-none-any.whl?raw=true --force-reinstall
 ```
 
 ## [+] USAGE
