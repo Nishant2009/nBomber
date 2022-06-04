@@ -1,7 +1,7 @@
-# Bomber
+# nBomber
 SMS BOMBING TOOL WITH HAVING 50,000 MESSAGE SENDING CAPACITY AT A TIME.
 
-<h2 align="center"><u>Bomber</u></h2>
+<h2 align="center"><u>nBomber</u></h2>
 
 <p align="center">A free and open-source SMS/Call bombing application</p>
 
@@ -28,24 +28,24 @@ SMS BOMBING TOOL WITH HAVING 50,000 MESSAGE SENDING CAPACITY AT A TIME.
 
 •For best performance, use single thread with considerable delay time.
 
-•Always ensure that you are using the latest version of Bomber and have Python 3.
+•Always ensure that you are using the latest version of nBomber and have Python 3.
 
 •This application must not be used to cause harm/discomfort/trouble to others.
 
 •By using this, you agree that you cannot hold the contributors responsible for any misuse.
 
 ### [+] Installation
-Run these commands to Install Bomber.
+Run these commands to Install nBomber.
 
 ```shell script
-pip install https://github.com/Nishant2009/Bomber/blob/main/bomber-1.0-py3-none-any.whl?raw=true --force-reinstall
+pip install nBomber
 ```
 
 ## [+] USAGE
 
-To use the bomber type the following commands:
+To use the nBomber type the following commands:
 ```shell script
-bomber
+nBomber
 ```
 
 ## FAQ
